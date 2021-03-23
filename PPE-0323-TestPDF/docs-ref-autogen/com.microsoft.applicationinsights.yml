@@ -57,6 +57,6 @@ references:
   nameWithType: TelemetryClient
   fullName: com.microsoft.applicationinsights.TelemetryClient
   type: Class
-  summary: <p>Create an instance of this class to send telemetry to Azure Application Insights. General overview <ulink url="https://docs.microsoft.com/azure/application-insights/app-insights-api-custom-events-metrics">https://docs.microsoft.com/azure/application-insights/app-insights-api-custom-events-metrics</ulink></p>
+  summary: <p>Create an instance of this tes class to send telemetry to Azure Application Insights. General overview <ulink url="https://docs.microsoft.com/azure/application-insights/app-insights-api-custom-events-metrics">https://docs.microsoft.com/azure/application-insights/app-insights-api-custom-events-metrics</ulink></p>
   syntax:
     content: public class TelemetryClient
